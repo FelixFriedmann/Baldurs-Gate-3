@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="100"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="42dc9177-c63d-5292-39d5-61e725a839c4"/>
+            <attribute id="LayerColor" type="int32" value="7184896"/>
+            <attribute id="Name" type="LSString" value="Assets Museum"/>
+        </node>
+    </region>
+</save>
